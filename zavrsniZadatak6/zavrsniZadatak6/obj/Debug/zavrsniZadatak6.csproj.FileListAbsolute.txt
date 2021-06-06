@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\zavrsniZadatak6\zavrsniZadatak6\bin\Debug\zavrsniZadatak6.exe.config
+C:\Users\denim\source\repos\zavrsniZadatak6\zavrsniZadatak6\bin\Debug\zavrsniZadatak6.exe
+C:\Users\denim\source\repos\zavrsniZadatak6\zavrsniZadatak6\bin\Debug\zavrsniZadatak6.pdb
+C:\Users\denim\source\repos\zavrsniZadatak6\zavrsniZadatak6\obj\Debug\zavrsniZadatak6.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\zavrsniZadatak6\zavrsniZadatak6\obj\Debug\zavrsniZadatak6.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\zavrsniZadatak6\zavrsniZadatak6\obj\Debug\zavrsniZadatak6.exe
+C:\Users\denim\source\repos\zavrsniZadatak6\zavrsniZadatak6\obj\Debug\zavrsniZadatak6.pdb
